@@ -1,13 +1,14 @@
 <template>
   <div class="home">
- 
+    <div>
+      
+   
+    </div>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
 
-// import http from '@/utils/request'
 
 export default {
   name: 'Home',
@@ -25,4 +26,6 @@ export default {
     })
   }
 }
+
+
 </script>
